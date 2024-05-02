@@ -1,5 +1,5 @@
-import streamlit as st
 import pickle
+import streamlit as st
 
 # Load the models
 with open('model.pkl', 'rb') as f:
